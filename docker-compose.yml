@@ -1,7 +1,7 @@
 version: '3.7'
 
 volumes:
-  mongo-data:
+  mongo-standalone-data:
     name: mongo-standalone-data
 
 services:
